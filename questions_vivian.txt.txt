@@ -1,11 +1,11 @@
 1. What are 3-5 (or more) commands that you can use on terminal and what do they do? What language is your computer terminal in?
-
+  cd- acts like a mouse or clicker for things, ls- lists all the things in that folder and etc, clear- clears everything but without actually deleting it. My computer terminal is in powersshell.
 2. Do you have pets? What kind?
-
+  I have one pet and he's a yorkie.
 3. If you run across an error, what would your first course of action be?
-
+  I would read what the error is underneath where I messed up, and try to fix my actions that led up to it.
 4. Funniest thing that happened to you in high school.
-
+  Sneakily reading (manga) and pretending I was reading a scientific book and everyone believing me.
 5. What is a python script? (Keep it simple)
-
+  Basically most simplist form is that it's a programming language.
 
